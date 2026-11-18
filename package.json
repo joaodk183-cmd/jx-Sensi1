@@ -1,1 +1,13 @@
 
+{
+  "name": "jx-sensi",
+  "version": "1.0.0",
+  "description": "Gerador automático de sensibilidade JX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
